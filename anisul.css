@@ -1,0 +1,45 @@
+article{
+    color: blueviolet;
+}
+body{
+   background-color: rgb(212, 127, 0);
+}
+
+/*for desktop */
+
+.col-1 {width: 8.33%;}
+.col-2 {width: 16.66%;}
+.col-3 {width: 25%;}
+.col-4 {width: 33.33%;}
+.col-5 {width: 41.66%;}
+.col-6 {width: 50%;}
+.col-7 {width: 58.33%;}
+.col-8 {width: 66.66%;}
+.col-9 {width: 75%;}
+.col-10 {width: 83.33%;}
+.col-11 {width: 91.66%;}
+.col-12 {width: 100%;}
+
+.logo{
+    text-align: left;
+}
+
+.text{
+  left: 70em;
+   
+    
+}
+
+.navbar-manu{
+    flex-direction: row;
+    justify-content: flex-end;
+}
+
+.navbar-manu a{
+    float: inline-end;
+    padding: 5px 10px;
+    text-transform: capitalize;
+    margin: 20px 0;
+    background-color: transparent;
+    
+}
